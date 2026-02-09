@@ -682,7 +682,7 @@ textarea:focus {
 .hero-services {
   position: relative;
   min-height: 100vh;
-  background: url("./images/service.jpg") center/cover no-repeat;
+  background: url("./images/servicepage.png") center/cover no-repeat;
   display: flex;
   align-items: center;
   padding: 0 5%;
